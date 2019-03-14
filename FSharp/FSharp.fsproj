@@ -5,11 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="KMeans.fs" />
     <None Include="Script2.fsx" />
     <None Include="Script1.fsx" />
     <Compile Include="Library.fs" />
   </ItemGroup>
-
-  <ItemGroup />
 
 </Project>
